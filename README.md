@@ -10,4 +10,4 @@ Members
 - Hannah Mascardo
 - John Edward Vallespin
 - Lyca Lague
-- Rico Batistis
+
